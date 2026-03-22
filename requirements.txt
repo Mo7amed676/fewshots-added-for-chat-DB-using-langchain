@@ -1,0 +1,7 @@
+streamlit
+pandas
+sqlalchemy
+python-dotenv
+langchain-google-genai
+psycopg2
+google-generativeai
