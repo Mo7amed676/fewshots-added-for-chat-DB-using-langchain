@@ -1,0 +1,2 @@
+# fewshots-added-for-chat-DB-using-langchain
+adding_few_shots_examples_to_use_them_to_constrain_the_results
