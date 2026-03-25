@@ -4,8 +4,8 @@ import pandas as pd
 from sqlalchemy import create_engine, text
 
 
-GOOGLE_API_KEY = "AIzaSyAqLnPoIcjADSJINlLuDmsZLBLB6Dtbm_M"
-DB_URL="postgresql://postgres:awJOVZjpuRXOkfjUOWZDGCYOTdKVtoeh@trolley.proxy.rlwy.net:20016/railway"
+# GOOGLE_API_KEY = ""
+# DB_URL=""
 
 
 # Setup Google Generative AI
